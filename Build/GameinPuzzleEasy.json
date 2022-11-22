@@ -1,0 +1,16 @@
+{
+"companyName": "GameinPuzzleEasy",
+"productName": "GameIn",
+"productVersion": "0.1",
+"dataUrl": "GameinPuzzleEasy.data.unityweb",
+"wasmCodeUrl": "GameinPuzzleEasy.wasm.code.unityweb",
+"wasmFrameworkUrl": "GameinPuzzleEasy.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
